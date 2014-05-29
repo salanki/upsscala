@@ -1,4 +1,4 @@
-upsscala
+UPS Scala
 ========
 
 An implementation of the UPS WebService [Shipping API](https://www.ups.com/upsdeveloperkit/downloadresource?loc=en_US) using [ScalaXB](http://scalaxb.org/) and the Play async webservice client.
